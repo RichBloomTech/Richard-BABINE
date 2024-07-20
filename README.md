@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Richard BABINE
+- 👀 I’m interested of Technologies
+- 🌱 I’m currently learning Data-science and ML 
+- 💞️ I’m looking to collaborate on Data science projects 
+- 📫 How to reach me : richardbbne@gmail.com
